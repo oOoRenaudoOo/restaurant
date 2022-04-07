@@ -21,7 +21,6 @@ document.querySelector('#search-icon').onclick = () => {
 document.querySelector('#close').onclick = () => {
     document.querySelector('#search-form').classList.remove('active');
     
-<<<<<<< HEAD
 }
 
 var swiper = new Swiper(".home-slider", {
@@ -45,6 +44,3 @@ var swiper = new Swiper(".home-slider", {
 
 
 
-=======
-}
->>>>>>> 17a5b0e55a3205f5181b075a58fa7e62bd0ebd2d
