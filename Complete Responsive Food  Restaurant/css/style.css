@@ -199,6 +199,7 @@ header .icons #menu-bars {
     cursor: pointer;
     top: 2rem; right: 3rem;
     font-size: 5rem;
+<<<<<<< HEAD
 
 }
 
@@ -339,6 +340,8 @@ header .icons #menu-bars {
     font-weight: bolder;
     margin-right: 1rem;
     font-size: 2.5rem;
+=======
+>>>>>>> 17a5b0e55a3205f5181b075a58fa7e62bd0ebd2d
 
 }
 
@@ -404,6 +407,7 @@ header .icons #menu-bars {
 
     }
 
+<<<<<<< HEAD
     .home .home-slider .slide .content h3 {
   
         font-size: 5rem;
@@ -412,6 +416,8 @@ header .icons #menu-bars {
     
 
 
+=======
+>>>>>>> 17a5b0e55a3205f5181b075a58fa7e62bd0ebd2d
 }
 
 @media (max-width:991px) {
@@ -420,12 +426,15 @@ header .icons #menu-bars {
         font-size: 50%;
     
     }
+<<<<<<< HEAD
 
     .dishes .box-container .box img {
         height: auto;
         width: 100%;
     
     }
+=======
+>>>>>>> 17a5b0e55a3205f5181b075a58fa7e62bd0ebd2d
    
 }
 
